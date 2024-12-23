@@ -49,8 +49,12 @@
             <h2>Screenshots and Video</h2>
             <h3>Screenshots</h3>
             <div class="screenshot">
-                <img src="screenshots/home-page.png" alt="Home Page">
-                <img src="screenshots/events-page.png" alt="Events Page">
+                <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at2.23.07P.jpeg?raw=true" alt="EventCard">
+                <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at9.34.43P.jpeg?raw=true" alt="Events Page">
+                <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at9.34.50P.jpeg?raw=true" alt="Attendee Page">
+                <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at9.35.03P.jpeg?raw=true" alt="Tasks Page">
+                <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at10.12.46P.jpeg?raw=true" alt="Postgres DB">
+                <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at9.34.57P.jpeg?raw=true" alt="dashboard">
             </div>
             <h3>Demo Video</h3>
             <p><a class="btn" href="https://youtu.be/demo-video-link" target="_blank">Watch Demo Video</a></p>
