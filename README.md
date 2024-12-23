@@ -57,7 +57,7 @@
                 <img src="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screenshot2024-12-23at9.34.57P.jpeg?raw=true" alt="dashboard">
             </div>
             <h3>Demo Video</h3>
-            <p><a class="btn" href="https://github.com/Ravikumara666/Event-Management-Dashboard/blob/main/Screen%20Recording%202024-12-23%20at%208-VEED%20(1).mp4" target="_blank">Watch Demo Video</a></p>
+            <p><a class="btn" href="https://drive.google.com/file/d/1CV9FxhOlHRF_g3HxikweKN6x2zxs8yfd/view?usp=sharing" target="_blank">Watch Demo Video</a></p>
         </div>
 
  <div class="section">
